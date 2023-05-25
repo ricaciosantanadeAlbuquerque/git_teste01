@@ -1,1 +1,2 @@
 em teste.
+Treinando os comandos do git no bash
