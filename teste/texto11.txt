@@ -6,3 +6,6 @@ Albuquerque
 digite seu nível de estudo Completo:
 testando o git.
 finalizando os testes.
+
+//===================================
+funcionalidade B finalizada.
