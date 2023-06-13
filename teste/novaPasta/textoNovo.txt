@@ -1,1 +1,2 @@
 Um pequeno passo, uma grande vitoria.
+funcionalidade 1 desenvolvida
