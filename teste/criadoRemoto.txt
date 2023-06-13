@@ -1,2 +1,3 @@
 Este arquivo foi criado diretamente no github, para ser puchado para o git "local" por meio do comando git pull
 causando uma alteração.
+funcionalidade 2 desenvolvida
