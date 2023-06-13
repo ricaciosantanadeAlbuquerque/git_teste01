@@ -2,3 +2,4 @@ Olá seja bem Vindo
 
 funcionalidade A finalizada.
 A;
+alterando leta A maiúscula para letra a minúscula
