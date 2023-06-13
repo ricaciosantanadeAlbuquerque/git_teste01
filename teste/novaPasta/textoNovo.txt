@@ -1,2 +1,3 @@
 Um pequeno passo, uma grande vitoria.
 funcionalidade 1 desenvolvida
+funcionalidade 1 avançada
