@@ -1,3 +1,4 @@
 inicializando exe 5 j
 
 funcionalidade A feita 
+FINALIZANDO FUNCAO ==A==
