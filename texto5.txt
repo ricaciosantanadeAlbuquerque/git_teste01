@@ -1,2 +1,3 @@
 inicializando exe 5 j
 funcaoJ()
+funcaoTest2()
