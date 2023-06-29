@@ -1,1 +1,3 @@
 class 02 a primorando.
+funcaoA()
+funcaoB()
