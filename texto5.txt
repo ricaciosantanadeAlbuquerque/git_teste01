@@ -1,2 +1,2 @@
 inicializando exe 5 j
-funcaoTest()
+funcaoTest2()
