@@ -1,13 +1,10 @@
 [submodule "submodulo"]
 	path = submodulo
 	url = https://github.com/ricaciosantanadeAlbuquerque/submodulo.git
-<<<<<<< HEAD
 [submodule "sub12"]
 	path = sub12
-=======
 [submodule "submodule2"]
 	path = submodule2
 [submodule "submodulo2"]
 	path = submodulo2
->>>>>>> 985727f30296dc4d6ba05bdd34e52b2453784928
 	url = https://github.com/ricaciosantanadeAlbuquerque/submodulo.git
